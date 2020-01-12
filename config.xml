@@ -9,5 +9,7 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <preference name="android-minSdkVersion" value="17" />
+    <!--<preference name="android-maxSdkVersion" value="23" />-->
     <preference name="android-targetSdkVersion" value="28" />
 </widget>
