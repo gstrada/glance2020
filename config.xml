@@ -2,11 +2,12 @@
 <widget id="com.phonegap.glance" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>glance</name>
     <description>
-        A blank PhoneGap app.
+       Glance 2020.
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <preference name="android-targetSdkVersion" value="28" />
 </widget>
